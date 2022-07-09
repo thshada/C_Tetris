@@ -1,0 +1,8 @@
+﻿  main.c
+C:\Users\user\Desktop\c언어연습문제\로그인예제\로그인예제\main.c(1530,13): warning C4098: 'check_game_over': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\user\Desktop\c언어연습문제\로그인예제\로그인예제\main.c(1536,13): warning C4098: 'check_game_over': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\user\Desktop\c언어연습문제\로그인예제\로그인예제\main.c(1580,14): warning C4098: 'check_game_over': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\user\Desktop\c언어연습문제\로그인예제\로그인예제\main.c(1561,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Desktop\c언어연습문제\로그인예제\로그인예제\main.c(1562,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Desktop\c언어연습문제\로그인예제\로그인예제\main.c(1573,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  로그인예제.vcxproj -> C:\Users\user\Desktop\c언어연습문제\로그인예제\x64\Debug\로그인예제.exe
